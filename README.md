@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlestaWasTaken    
+- 👋 Hi, I’m Alesta a.k.a Umut     
 - 👀 I’m interested in Playing video games,reading books and im currently writing a horror book!.
 - 🌱 I’m currently learning C# and HTML     
 - 📫 How to reach me = You can reach me from my mail and my Discord
