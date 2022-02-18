@@ -2,7 +2,7 @@
 - 👀 I’m interested in playing video games,reading books and im currently writing a horror book!
 - 🌱 I’m currently learning C# and HTML     
 - 📫 How to reach me = You can reach me from my e-Mail
-Mail = alesta1337@gmail.com
+ = alesta1337@gmail.com
 
 
 <!---
