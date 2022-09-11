@@ -1,11 +1,17 @@
-- 👋 Hi, I’m Alesta a.k.a Umut     
-- 👀 I’m interested in playing video games,reading books and im currently writing a horror book!
-- 🌱 I’m currently learning C# and HTML     
-- 📫 How to reach me = You can reach me from my e-Mail
- = alesta1337@gmail.com
+[alestah@archlinux ~]$ neofetch
 
-
-<!---
-AlestaWasTaken/AlestaWasTaken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+                    -@                    alesta@archlinux
+                   .##@                   -----------------
+                  .####@                  Username: Alesta
+                  @#####@                 Alias: Alesta
+                . *######@                Discord: Alesta#2843
+               .##@o@#####@               Website: https://alesta.me
+              /############@              Location: Istanbulr/Turkey
+             /##############@             
+            @######@**%######@            -----------------
+           @######`     %#####o           Javascript: 7/10
+          @######@       ######%          HTML: 9/1O
+        -@#######h       ######@.`        CSS: 8/10
+       /#####h**``       `**%@####@       
+      @H@*`                    `*%#@    Infos: 16yo  
+     *`                            `*     
