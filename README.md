@@ -11,7 +11,7 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 ```
 
 <br/>
-<img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=18&width=300&vCenter=true&lines=Alesta+Gürkan;+Web/App+dev;Open+source+magician" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=18&width=300&vCenter=true&lines=Alesta+Gürkan;+Web/App+developer" />
 
 
 
