@@ -20,7 +20,7 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=3gkak6l4drh3z2fy12yw7l3p9&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=3gkak6l4drh3z2fy12yw7l3p9&cover_image=true&theme=default&show_offline=true&bar_color=000000&bar_color_cover=true" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=016EEA&width=800&lines=This+page+is+best+viewed+in+dark+mode.;Hope+you+enjoy!;Now+we+both+probably+need+to+get+back+to+coding" />
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=016EEA&width=800&lines=Now+we+both+probably+need+to+get+back+to+coding" />
 </p>
 
 <p align="center">
